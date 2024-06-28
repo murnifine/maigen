@@ -1,11 +1,12 @@
 {
   "version": "v1.6.5",
-  "notes": "Your Release Notes go here",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "notes": "Aplikasi update terbaru ini",
+  "pub_date": "2024-06-27T19:25:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.5/app-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzNuaG8ySllpMzBEY3NXanVIcE1VU08wMGZ5T3B5ZFllZndQRnIzVGJCQmFBQ1JuS3dzWjlTSHJsbkkyL1lVT1NHSjhaZUJVbXZMaXd3eTBCYm9MdXp5djlrblRlMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTg2MDU1CWZpbGU6TWFpZ2VuXzEuNi41X3g2NC1zZXR1cC5leGUKRmVhMnYzUlZlN3BVRGtJTHY0ZXcwZ3pnaTZ4ZmRrREJwZEs4QkN4d2s4dVo1eENpK21kdk5nakgycmFrdUZBVGh2Qk95NCtib0hnQU9uV21qVkQ4Qnc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.5/Maigen_1.6.5_x64-setup.nsis.zip"
+              
     }
   }
 }
