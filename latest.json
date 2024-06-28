@@ -1,11 +1,11 @@
 {
-  "version": "v1.6.5",
-  "notes": "Aplikasi update terbaru ini",
+  "version": "v1.6.4",
+  "notes": "Aplikasi update terbaru ini bosku",
   "pub_date": "2024-06-28T23:23:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzNuaG8ySllpM3lZK2haMFFEbk9MUklXSkk1aXFCa055OWJwemt5cFh4L1c2d3RlbGlyQTV6b3BRL2wzTUZXOUtCSGU0YjI3dVFnbkxVOElJSmV0MnlEb3U3ZjdneWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTg4MjM3CWZpbGU6TWFpZ2VuXzEuNi41X3g2NC1zZXR1cC5leGUKbVpoWVowYlBPdUJxalU3Q0o2cTJxakRObkV2TDE0bXd1WXQrdFpVSWIwSzYrZVhjQmFjN3k2THp2cEhZdmYzdjVSWTZLTGE3ZXRWVGx3S1hLMmRDQ3c9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.5/Maigen_1.6.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THZ4Z2x1MjQ5N0R2ajd5ZG1IWWhSOUJ6bjlzVDh0M3VOYTkySWFBb2p2ODEwbUwvemJ6Z2dXSGJYYU8xZ3hoQzBEL0FQcnhoQk5TcU5OMmFxR3FPQndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTk2NjUxCWZpbGU6TWFpZ2VuXzEuNi40X3g2NC1zZXR1cC5uc2lzLnppcApHTURqemp3WE01ZENSUklwOC8ySTI0NDRKbDhlY3JaOS9PbTRoY1FCUGlUUGJzdllRUXg2RzVKQ3NPOFJSeE16dEJRVHZ2MmlnNmZSWUNBaTNPcGlEUT09Cg==",
+      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.4/Maigen_1.6.4_x64-setup.nsis.zip"
               
     }
   }
