@@ -4,8 +4,8 @@
   "pub_date": "2024-06-28T23:23:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzNuaG8ySllpMzNXQ0VOemp0UVg3S2doYWtWbi9GZ0ZLcExmcUhMbTlnWjM5MVJqT1l2VHpjSzhpMnZidlBPNjlPVmI1ZiszQzlPVTY3eHhlSzdVODgrMW5aeGh5MEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTg3ODkzCWZpbGU6TWFpZ2VuXzEuNi40X3g2NF9lbi1VUy5tc2kKa01yajIvWDlvcVdzMDdxTVQwM1hSSG1kaDhwNFRwMVJoV2dFeWhDanZkNEtrWUVSYnpnM1BPRm1IU2gwUlVPaklHRWpUN0sxRmk1cXIvY3U1ZHNtRHc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.5/Maigen_1.6.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVULzNuaG8ySllpM3lZK2haMFFEbk9MUklXSkk1aXFCa055OWJwemt5cFh4L1c2d3RlbGlyQTV6b3BRL2wzTUZXOUtCSGU0YjI3dVFnbkxVOElJSmV0MnlEb3U3ZjdneWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5NTg4MjM3CWZpbGU6TWFpZ2VuXzEuNi41X3g2NC1zZXR1cC5leGUKbVpoWVowYlBPdUJxalU3Q0o2cTJxakRObkV2TDE0bXd1WXQrdFpVSWIwSzYrZVhjQmFjN3k2THp2cEhZdmYzdjVSWTZLTGE3ZXRWVGx3S1hLMmRDQ3c9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v1.6.5/Maigen_1.6.5_x64-setup.exe"
               
     }
   }
