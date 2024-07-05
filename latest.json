@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.1",
-  "notes": "[\"Fix SVG not displaying for those without width and height\",\"Increase the daily limit of trial users to 35 per day\"]",
-  "pub_date": "2024-07-05T01:01:57Z",
+  "version": "v1.8.2",
+  "notes": "[\"Fix stuck loading when reading SVG file metadata\"]",
+  "pub_date": "2024-07-06T01:01:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGgxbVZTTVVsdVU5SW4veE95ZzNHUndTd2hUVzlhcUJxYUlJKzN4WU1vVEdqdE8yUXBRcmdXUmNud1UveCtyMFY4MjdESEx3M3FiYXhlQnM1S3pQTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwMTU0NDE2CWZpbGU6TWFpZ2VuXzEuOC4xX3g2NF9lbi1VUy5tc2kKYzJhTHpJcXllOUIvYmVpUDZGd0xVaHlya3JLQktTa0p2RE9EZ3JLYXlOYjRNejgrOVF3Q21RZ05wK2JUdGUyekNvMmhobTRVa3Fla3NtbE9EMGtKQWc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v1.8.1/Maigen_1.8.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THVOSjFiR2tSaHN5anphaFVwT0s3eEI5WmlHSmJrdzFnaVZhQk9Bdk9adXAySHdRV2JQRU5laStWTUNrUkh6eC92R1lzWmFZWUN2NE90bG9QRU9IR1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwMTk2NzU5CWZpbGU6TWFpZ2VuXzEuOC4yX3g2NF9lbi1VUy5tc2kKeVRMbTU1UWxadC9vblBVM0ZVRkY5MXB4a1M5NnFyeEJGVUdhQUFCeUpobHdmNEpkZzJycUFrRERGRURUcUFxa0t1RUthbmFDcVhXK0NMRi9hd1l1Qmc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v1.8.2/Maigen_1.8.2_x64_en-US.msi"
               
     }
   }
