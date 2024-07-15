@@ -1,11 +1,11 @@
 {
-  "version": "v1.8.3",
-  "notes": "[\"Fix duplicate keywords\"]",
-  "pub_date": "2024-07-06T01:01:57Z",
+  "version": "v1.9.0",
+  "notes": "[\"Provides title and description.\", \"New optimized prompts for 35 and 50 keywords.\", \"Enable CSV export even if it is limited in trial.\", \"Reduced notification display.\", \"Customize the trial start and registration page.\", \"Some other bugs.\"]",
+  "pub_date": "2024-07-15T01:01:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGwzWnhiZjlXLzFVRXBVQS95WTJLK1RPWU1EU0Q2MkVwOUwxY0NOSGNqM1ZlODJLenN5N0c3c0FiNk84QVo5bUtqVTJibUZQVGhRV0wxaU43MUtSelFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwNzkzMzcyCWZpbGU6TWFpZ2VuXzEuOC4zX3g2NF9lbi1VUy5tc2kKblo1ZldWNWIweG5mWXMzV0NnWDlYUy9tTnpLOVFPS3ZQU0RSVW5RU1N4T3VVVEI5bUx3d2ZORG4wb1JkUW9vVzk3dWlLaTQrZnZYNGZrcENVdXpDQkE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v1.8.3/Maigen_1.8.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGpzUFplYnhTM0tFVW10YlREVEFKRHI4TDZDUDJEdE5DTlA3ZFM2MFBzekIrTUU0UGpvMFNwR1hjMUl6eTk1RzNSNWF5K2Vha1c2bFgwTFdEQnBxcEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDI5MzM2CWZpbGU6TWFpZ2VuXzEuOS4wX3g2NF9lbi1VUy5tc2kKTFRCMi9UUXN2UTVaNzBSK0lLVTNheUxOM2hSVGh4M3M5dUtUbjVWTWR4c0o1VmZsb2FEazBMcWpKY2Zrbk9nWHEwR3R2TllUdndFajNRLzBCRGFlQ2c9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v.1.9.0/Maigen_1.9.0_x64_en-US.msi"
     }
   }
 }
