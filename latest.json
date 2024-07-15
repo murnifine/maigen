@@ -1,11 +1,11 @@
 {
-  "version": "v1.9.0",
+  "version": "v1.9.1",
   "notes": "[\"Provides title and description.\", \"New optimized prompts for 35 and 50 keywords.\", \"Enable CSV export even if it is limited in trial.\", \"Reduced notification display.\", \"Customize the trial start and registration page.\", \"Some other bugs.\"]",
-  "pub_date": "2024-07-15T01:02:57Z",
+  "pub_date": "2024-07-15T01:03:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG5OTkJlV0M3WkUwck1HdXJPNjBzSU40QXJacy9hcWF3NnNXajViZ3pxSzJ1OWwwNE9ld3dhVEppdm5wTVZJK3ZmMkVBTVRlVW5KWUdWQ0J0QU9LRlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDMwMDU1CWZpbGU6TWFpZ2VuXzEuOS4wX3g2NF9lbi1VUy5tc2kKdlNZSUs3emp2Wk9ndC9weGRqNFA2WFNKQ1VaeXFPdzNRWWExMGFzdVZDUy9xN0d0aHVla2dWbDUzeGhxdHZyWDZCcDI2bEJ4MHk5RVRzYlFkc05GQUE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v.1.9.0/Maigen_1.9.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THFCOWpLNGRtMExrZXR2MUQ1emRvaVFXb0Q2RXlGQlh1SmdBTk01dVJQa2NqMjBGeXRlSEFSTXVvejkrd29qZkhZQ3k5eGFucVI5L0M2ZXA1MjllUmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMDM0MDgxCWZpbGU6TWFpZ2VuXzEuOS4xX3g2NF9lbi1VUy5tc2kKdE43akg0d3Y3N2pxbCs2MkNVYzA0RXRsd2ZLRm9MWVhXRzBQaldHVkhnSzRiTUtrSlp2WHc2L0FTRElRMlg2MnFCU0ZCZTlBZmo2bG81enZMcWFvRFE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v.1.9.0/Maigen_1.9.1_x64_en-US.msi"
     }
   }
 }
