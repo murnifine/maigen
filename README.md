@@ -1,2 +1,2 @@
-# maigen
+# Maigen
 Microstock tool
