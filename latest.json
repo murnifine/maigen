@@ -1,5 +1,5 @@
 {
-	"version": "2.2.3",
+	"version": "1.2.3",
 	"notes": "[\"Now supports MacOS and Linux.\",\"Add option to choose title only, description only, or both.\", \"Remove dependency on exiv2 library.\", \"Save Adobestock and Shutterstock category info into a file.\", \"Fix issue with opening folder after exporting CSV.\",\"Fix the metadata in SVG file so that it can be read directly by Adobestock system.\",\"Add option to use title or description when exporting CSV.\", \"Change CSV naming to include export date and time.\"]",
 
 	"pub_date": "2024-07-26T08:48:55.780Z",
