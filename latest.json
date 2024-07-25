@@ -2,7 +2,7 @@
 	"version": "2.2.3",
 	"notes": "[\"Now supports MacOS and Linux.\",\"Add option to choose title only, description only, or both.\", \"Remove dependency on exiv2 library.\", \"Save Adobestock and Shutterstock category info into a file.\", \"Fix issue with opening folder after exporting CSV.\",\"Fix the metadata in SVG file so that it can be read directly by Adobestock system.\",\"Add option to use title or description when exporting CSV.\", \"Change CSV naming to include export date and time.\"]",
 
-	"pub_date": "2024-07-25T08:48:55.780Z",
+	"pub_date": "2024-07-26T08:48:55.780Z",
 	"platforms": {
 		"darwin-aarch64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG5SaEJRcWNGdm0vWHJJS3BHT012U0ZpK09IMFI4VDBPRHpYaFZiSDkrMm90enJ2WHlFODVtcmZQRUpuU2JFcWY4ZFdpNWYwbWcvMVRvY3FpVS91TncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxODk2MzcyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKb0tpYytyRE5WS05FblVDT2hTVGpxSWxEU242RTZBMmh3dkxZdVJaTlRxVE8vZ1A0djNwR3ZyQXJHcFVPR09xOXNYMlZVbkdLZ3BEMnhkL09MVUhRRFE9PQo=",
