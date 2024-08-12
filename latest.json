@@ -1,5 +1,5 @@
 {
-	"version": "2.4.2",
+	"version": "2.1.2",
 	"notes": "[\"Add content display in the list.\",\"Added settings to set the desired view.\",\"Added option in settings to use focus mode.\",\"Save compression in files for optimization when reopened.\"]",
 	"pub_date": "2024-08-12T08:00:33.587Z",
 	"platforms": {
