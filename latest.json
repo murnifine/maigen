@@ -1,23 +1,23 @@
 {
-	"version": "2.5.5",
-	"notes": "[\"Added OpenAI with models GPT 4o and GPT 4o Mini.\",\"Added Anthropic with its models Claude 3 Haiku and Claude 3.5 Sonnet.\",\"Added a generate metadata button for each file.\",\"Added delete button for each file.\",\"Updated the UI in the generate metadata panel.\",\"Fix delay and Anthropic workers\",\"* Fixed target generate issue\"]",
-	"pub_date": "2024-08-19T15:40:29.515Z",
-	"platforms": {
-		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGltZFIzZ1M5cDBmNTRaRmoxd3FLVGFOUTloNy8xbDYxUENQdWNFd0s2YTFTYm9uWklJSEd2dDhEcU9OakFSbHE3TEdTYVVIL09RQVRqV3lOVWNqdWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDgxODM3CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKVktZSkEwRis1UGlBa240K2U4a0lMS01aemRCZVg5NWdLVlpvUXVxVGZGSEdGVStKVzRmVEVTREF2U3BGVStFRzBNSVZkbHV1UUNrbkdMK2p4MThQQkE9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v2.5.5/Maigen_x64.app.tar.gz"
-		},
-		"linux-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THR6bmhENHd3K08vUkNMY2JoZjd1bDRvK0krRUdJbnFOQ09ZL3djbEhEbVc4TXUyL0FzV3pJcUhtczcrNUZDNE9vK1Q2WkJFaUN2R29La3MwQmZjdHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDgxOTQ3CWZpbGU6TWFpZ2VuXzIuNS41X2FtZDY0LkFwcEltYWdlCnJyZ3llakh2VVlseVpHQlpPZ3Y3bHYzMjJDSVVzOEFETEd4bHF3Vit1cVl5MkxTSDVBSU1UR0JjN1VnbTQzN0M1UDBPcE9ITHZ2dkhqTkk2ZldMSUFBPT0K",
-			"url": "https://github.com/murnifine/maigen/releases/download/v2.5.5/Maigen_2.5.5_amd64.AppImage"
-		},
-		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THVqbE5zNjEzRW1zaHZDbG1Yb0Nxc2ZkakRwRVIrdERpOVdYdFlrUmk0Zkd1Lzh5SUs0Q1BCZHhidE14K2hYak1SdWR5TzFGeDNsZzJDVXJ2UGRidEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDgyMDE0CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKblFaa3pCWDA2TExWb0srb2ozdGN1amd3Z3JIUjY0SEdseW9RNFZvTjVacitzYUNJczBjNVpMdFNyejJZNThMOVo5MXNUamRZeDhFUkNuaVpDTG9FQVE9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v2.5.5/Maigen_aarch64.app.tar.gz"
-		},
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THN3M3F6QlFDakpaRWo1MzVyNWQ0TDBHR1YyK2czZVVzdVd3QzE0Z1cwdHN3MGt2czBmWGRTK1JLMlNkRVFCeEo2UzI1ZHFVVTBTS1FnRG50S0ZPQXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MDgyMDI2CWZpbGU6TWFpZ2VuXzIuNS41X3g2NF9lbi1VUy5tc2kKNWZXcEdoZGFBZXlNaXpBWUdiWllFOUorMzV6U0Yya3JOcWJiQXhycXVhcnRmNGJQaTZtZlEzOXhkZUlPaSt1R1JvQ3Y0U3g5YkR5TE1DSjllUHdqRGc9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v2.5.5/Maigen_2.5.5_x64_en-US.msi"
-		}
-	}
+  "version": "2.5.6",
+	"notes": "[\"Added OpenAI with models GPT 4o and GPT 4o Mini.\",\"Added Anthropic with its models Claude 3 Haiku and Claude 3.5 Sonnet.\",\"Added a generate metadata button for each file.\",\"Added delete button for each file.\",\"Updated the UI in the generate metadata panel.\",\"Fix delay and Anthropic workers\",\"Fixed target generate issue\",\"Fixed Gemini flash mistake.\"]",
+  "pub_date": "2024-08-20T05:16:03.561Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGxPdlZzd0psREQySW11OHZ3VlNWTmNtZGZCOUk5REh0dDJ5VkcwaWp6VXRDaUJVMG52L2J6dTlwWG5PMEo2L0piaHVFVTE3S0psYTg5UFVIRG5iTXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTMwNTQyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKUCt4Tk8rYjdDOSswY0RpQ3V2d0RmQWRlOSs4TG9oV09Uckw1T0dDbmNWeWFMT1N2czMvUVhLNWJFSWNYd0RtK0prSlowK0gxUGo5czdsQXMxdElnQnc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v2.5.6/Maigen_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THRjUmljMnAzd0dSUkhUTDlCdkVtVHNmd1FFU2t1a0VjSHBrcmJ1a1pyemhkQXd5UmhnL2FtUjRqcnk3cndoVGxtS3FuNUtNVW84ckQ5K3RjeVlLOUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTMwNTgxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKRkNiVnFiTXlIUnRybFNtaVBJa2R6M3Yxc1A5dGRuODVMcG9nUW4rVkxxVVJGTDhRS3RrZUdSL3hnNFpESWFYM1d0Zm1PMVFPVk93TkExSithU29IQUE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v2.5.6/Maigen_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGlZTzBFR1NyU2lRdjdUQkJUN0xvbTFibVo2Ri8yYVNDNmViRklIaEVCUUJaYVQwSTMySmhLN2JGTDZwWnNEUFdzQ0NsaGVTN1M0ay9TYUhJK1RpTGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTMwNzI2CWZpbGU6TWFpZ2VuXzIuNS42X2FtZDY0LkFwcEltYWdlClo4OEVHWHdHc1VPQzVWTHI1V3RwRlArNlB2a3d5YVNLMXF5aEdnanB4b1g1Slgvc0VCT0JWM256SmdVYWgzQU5MM1pFeTQxNjFieVdEekk1dVpvOERBPT0K",
+      "url": "https://github.com/murnifine/maigen/releases/download/v2.5.6/Maigen_2.5.6_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THVnUmk3Q25oVDNJSXZ3cVFENEwxVU5sQXV4N2JIb01KMTFYWWJpQ3plL1pzaS9tZEFEbnMrNUE1UFRzQTl0SFA4WElJd0IzZzFuTXUrZTlJY3YvQ3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTMwOTYxCWZpbGU6TWFpZ2VuXzIuNS42X3g2NF9lbi1VUy5tc2kKSW93VytOK2tqY2VOZE5rU0didDQvRXBnK0ZOUE5Hb1VUMTdzbzhuY1kzTzZHUnYxMjhQVUxRaEJtaDFrMXBLWXFkZFRSL2FNMmh6WjlybGtEWlpVQVE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v2.5.6/Maigen_2.5.6_x64_en-US.msi"
+    }
+  }
 }
