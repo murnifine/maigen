@@ -1,6 +1,6 @@
 {
   "version": "2.6.0",
-  "notes": "[\"🛠️ Fix: google gemini batch generate issue\",\"➕ Add: Screen stays awake during batch generate process.\",\"➕ Add: API Key Manager.\"]",
+  "notes": "[\"🛠️ Fix: Google Gemini batch generate issue\",\"➕ Add: Screen stays awake during batch generate process.\",\"➕ Add: API Key Manager.\"]",
   "pub_date": "2024-08-23T05:49:47.045Z",
   "platforms": {
     "darwin-x86_64": {
