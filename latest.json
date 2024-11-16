@@ -1,23 +1,23 @@
 {
-  "version": "2.9.4",
-"notes": "[\"*Fixed filter feature not working.\",\"Fixed CSV export and application not responding when opening CSV file folder.\",\"Fix generate for SVG files.\",\"Optimized to load multiple files up to 10000+ files.\",\"Added translation feature to title and description.\",\"Added a button to mark whether the metadata has been reviewed or not.\",\"Removed the masonry view and made the default list view.\",\"Changed the color of the 10 main keywords to a bright lime color.\",\"Fixed some other bugs.\"]",
-  "pub_date": "2024-09-06T10:14:23.404Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGtTZDZHUGs4Z0xmSTh4Z05JVjg5Q0NGNTlwc3A4TDRROStSVlMydWNyenFsTnpqNi8zYzhDTnpTL2huQTRFeWtjNEFTQzJpVVU3bXRvUStYV3lnU1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NjE3MzAxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKdHBaS1ZFRUh0VzhQNFplT3ZaVjN5SUpEOGpUb2g2S2hkUyszY0NnRHFpVVQya0xNRjZ4Q2MrRHIvWVpmeTZWdjBWRnpZY3BnZkJHc2J4Tk00MkUrRGc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v2.9.4/Maigen_aarch64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THN1Z3lYYVNrd2EzWTZ4YUs0QmROemViYkhBKzRQbUQ3cWhKcjZDOUtjWURJMHhEbEdWL2ljNXRiT3RuOVpidDh0czNOMGpDVmR3WEVVaGhscVMrVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NjE3NDU1CWZpbGU6TWFpZ2VuXzIuOS40X2FtZDY0LkFwcEltYWdlCm9XY2pkVnZGbnRES3pQQ2tRTmZudzFERzJWM3lDWDdyb1dDR1UrN1ljNGVxZStlSldPMk5PTE9PbDRJTE9DZmVGK3pLTzlGNHZOV2xDanFGT3FmeURBPT0K",
-      "url": "https://github.com/murnifine/maigen/releases/download/v2.9.4/Maigen_2.9.4_amd64.AppImage"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGdvRXdDNWYzQ3RZWi9MZFdnVjNKUXFEWXhUK1Fnc3V6Um9UZEdIclZPMHdyODd5NEVFWUlJTFhRSStsTU9WWVk3b2lIekV0dGgwS3lpTjZWcDRyZUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NjE3NDY3CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKaFI2RUR6NE0xRnhMSDFXRHZtbGpzNWdIaDhibHgyZmE3TnlRQXJLZUNuVlVNaXljU1liZTVtMFFQMVBVVjFKZmN6N1JaeHFyT0wva01qblZyOUdWQ1E9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v2.9.4/Maigen_x64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THRtdWhYT28vT2hYMGY1Qk53VmFuT3UrdGVXbEJtVjlDSXM2cU9JS1VESEJwWXVWQ016YjFvL3FoR1pUeHRENGdhMlZxR3Z0NjdPZUd1b0NwY3hmZXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NjE3NjYwCWZpbGU6TWFpZ2VuXzIuOS40X3g2NF9lbi1VUy5tc2kKeC9wempUYmtVNmQ1UHA4UEVIMnljRXV4aE96ZFQzN2FDNDRuSm5LQjh4RUtIbmp1UTFoLzdnT3JZbkI1WFhwWXdZZkJMMExHUHdLL3RPSGFiaElVQ1E9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v2.9.4/Maigen_2.9.4_x64_en-US.msi"
-    }
-  }
+	"version": "2.10.0",
+	"notes": "[\"Adjust the prompt to recognize and add image concepts.\",\"Added more Google gemini models.\"]",
+	"pub_date": "2024-11-16T10:17:12.366Z",
+	"platforms": {
+		"darwin-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBreEZTQ3NPRVVSVmZWN0dDUzF5TDhqOGpyK3o1OHJLczBCRDBiaUxDVkxkMFdZcHFuUnlDbmJVdk9RdURCandrVExoN29ZcFRVSE5JNjNRVXhQbVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNzUxMzgxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKZ2dIdVRxVEVjZnZNWE8yTzlYSTYzVDJUQmMzZC9ZMlZsUXU5eWFuSUhOMnp1NU5mamJiVitvVUJxV2lPZktEbzFSc25oTmY4MkxuTEJhV01VcFVzRHc9PQo=",
+			"url": "https://github.com/murnifine/maigen/releases/download/v2.10.0/Maigen_x64.app.tar.gz"
+		},
+		"darwin-aarch64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THNKM0RGaUxvZXhCSjgzZ0J0TVRxQWJTZHNadTI5YjNOemhJdU1LY3VGV2xxS3AvbmYrZEYySmxLU3ZVbEN6Sm4yZVZiZU5CZVVNejZ4a1VZQnhybWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNzUxMzk4CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKNG5wRXdMSnRaUSsrMWt0TStWc2Q1alN5OHVLM0dncy81ZWUxWVRXSG55Y25ieUJmSVluYlNORzlORjRGeGVzVzNKd2d6ekNKWHdpeFdRbFRVRmJ4REE9PQo=",
+			"url": "https://github.com/murnifine/maigen/releases/download/v2.10.0/Maigen_aarch64.app.tar.gz"
+		},
+		"linux-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THRkbWhGZTZGWTI4SGVFVWFwUVdWdVNQVTBFdzZINEF0Q3dmRmJOV0p2aGRRZ2Eyc3lPVjVUMGQvUWp2V1dDdThDMmUxcTc2b250MG9RMlRjRG1MblFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNzUxOTM3CWZpbGU6TWFpZ2VuXzIuMTAuMF9hbWQ2NC5BcHBJbWFnZQpkUmh3NTZudDZNampRMHBndXRQNklTVjlWMmZaQ3MyREVsdmZ6SHpiVzRRM0sxVW1kWkNSb1pYR3Nad21EVE1HR3hPZHV0ZUY0dTZsKzREMkdIcnZDdz09Cg==",
+			"url": "https://github.com/murnifine/maigen/releases/download/v2.10.0/Maigen_2.10.0_amd64.AppImage"
+		},
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGo2TmlrcXpyTHJpaW5KSWxySWhDa1VlVjl1TStBcGk0SXp6ZUFUUkJxNUJIKy8wcm4xNG9FdmZoNi91ZW1haFVKL1hEOTRpd0RWZW51R0p0MmF5aWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMxNzUyMjI4CWZpbGU6TWFpZ2VuXzIuMTAuMF94NjRfZW4tVVMubXNpCkUrZkdYUWdJbmRRRHQvc3VyODNJb0Z6aG15N3V4UnIxYWdwWDFTY3VsWDlHNjlmYVMvb0RRdTB4OWVQU0wwMlFNN3V1VU5GbllaV0YyWkFGZElmNkR3PT0K",
+			"url": "https://github.com/murnifine/maigen/releases/download/v2.10.0/Maigen_2.10.0_x64_en-US.msi"
+		}
+	}
 }
