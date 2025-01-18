@@ -1,6 +1,6 @@
 {
 	"version": "3.0.0",
-	"notes": "Supports all types of microstock assets such as JPG, JPEG, PNG, SVG, EPS, AI, MP4, MOV. | Supports metadata generation for videos. | UI improvements. | And much more.",
+	"notes": "[\"Supports all types of microstock assets such as JPG, JPEG, PNG, SVG, EPS, AI, MP4, MOV.\",\"Supports metadata generation for videos.\",\"UI improvements.\",\"And much more\"]",
 	"pub_date": "2025-01-18T14:16:59.798Z",
 	"platforms": {
 		"windows-x86_64": {
