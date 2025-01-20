@@ -1,19 +1,11 @@
 {
-  "version": "3.0.2",
-  "notes": "[\"Supports all types of microstock assets such as JPG, JPEG, PNG, SVG, EPS, AI, MP4, MOV.\",\"Supports metadata generation for videos.\",\"UI improvements.\",\"And much more.\"]",
-  "pub_date": "2025-01-18T20:00:47.977Z",
+  "version": "3.1.0",
+  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\"]",
+  "pub_date": "2025-01-20T16:57:51.355Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG9pc0JlVmhtWDBIdWpvMXpQemV4akh5RWZHbTZHajlZSGVDSnhpaVQwSGFiRnJlK2FJemFUclZGd2ZSU2VYdjdZL09UcGZiZGVJRDlzT3lSblJFRHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MjMwMjUxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKMDU3cnpvbGM1WTg4RVNJRCtiOTdPN0xVUG9TSWF4Z1Z0M3RFWk5Ed0JBZnY1WkhmTzc4YjF0Q25iNWMyWFkvSkRoWXB4Q0ZIOXNuNDN5cGJQR0VKRFE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.0.2/Maigen_x64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THF2b01ETXBmTTZ0aTNwOGhoY2xXbXhtMFE0dmZwWUFYaWVZb0NmeFlZbjhmanNyanJ4aHJRVkVJYzFGa09qZFc3NjdCUzkrYVVxTnhFZ0RHUHNTSFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MjMwMzc4CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKSTd5TnFFT0tWOUh4NXNHby93Z1U2LzhBN29RelpqOHEzUnFhZzJUYjcvVGptWHk4ODZSTGZrbDkvUk5Xckp4cldqOXBXMWxPUCtZQjlveGdqcXQrQXc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.0.2/Maigen_aarch64.app.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THRVcitJRk1hWVpxUUNsM1VsWUZvMUJmemFlS0dWajVwYzkxN3BQV1dGMGNYMnd6SFE0Vmc1T3psTkhLKytpM3NHcHphZWI1Mkw0UGxCK0dIRjdJTHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MjMwNDQ2CWZpbGU6TWFpZ2VuXzMuMC4yX3g2NC1zZXR1cC5leGUKbkd1NGI5d05YTUxBbUZlNlFmQ1BHN3NkTWhrNFRPaGtnNmVaYm1LQy9MNndqRGNtQjU2MkU3U1VVMW1QTWl4UUdMSjN1TWRQYU1FTGQzb2d2ZEpTQWc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.0.2/Maigen_3.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THZhRnFablE5MHozYjNHdjU0MDNkam1FNXprak9PRVpnaUEwY1JFT2grKzVDc1VydHlSdXh6cDVpMTNrWnA5NGM2NURUaktkZlFyK2MzSE4xbk9FYXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MzkyMjY5CWZpbGU6TWFpZ2VuXzMuMS4wX3g2NC1zZXR1cC5leGUKY3RyM2lPdHpPQ3lyZitVeG1lY1ZXN0RIZmp3T1E2d0xHV1R6eWxIblFhM0tISFJhYjExT1lRZTFENTZOTWlyTWZmRHo0SHFlTHM0cXB5eVVUeUZ2QVE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v3.1.0/Maigen_3.1.0_x64-setup.exe"
     }
   }
 }
