@@ -1,6 +1,6 @@
 {
   "version": "3.2.0",
-  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"Adding alternative prompt.\",\"Reduce app size.\",\"Optimize default config generate.\" ]",
+  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"#Adding alternative prompt.\",\"#Reduce app size.\",\"#Optimize default config generate.\" ]",
  
   "pub_date": "2025-01-22T17:17:11.503Z",
   "platforms": {
