@@ -1,12 +1,12 @@
 {
-  "version": "3.1.1",
-  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"*Change default model for Google and Anthorpic.\" ]",
+  "version": "3.2.0",
+  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"Adding alternative prompt.\",\"Reduce app size.\",\"Optimize default config generate.\" ]",
  
-  "pub_date": "2025-01-21T05:53:45.742Z",
+  "pub_date": "2025-01-22T17:17:11.503Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG1QV29IdzBOZGdWR245TmJrN3QxWmRyU0MraDliMWpjaitDekFOeVhUeE5XbTg1bmx3dXZhYTh3MG9sTkgyTHVPaEp3SHczVW1wa1JYeWd6aUhsS2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NDM4ODIzCWZpbGU6TWFpZ2VuXzMuMS4xX3g2NC1zZXR1cC5leGUKQnd6azJ5Vmk5WldENE5Md3hrVmF5eTROWHhJVUJZYTVtQnE1UGVMNzk1b3ArdDh6YVpvTTZjNFQ5ajY4b2FHWVduTXNEdnRHOHFZWmpZY2xvNHJ0QlE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.1.1/Maigen_3.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG05VFlxNUpKWkZnUTNIUDZneEpKR3p4ekk5Tm9hMitVVVZGWjB5amRtalh3RDF1Y0FIRFJxRHBtS0U3UENwWmU3eVBadEFOSkJ1UlVLdW1oWHhPTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY2MjI5CWZpbGU6TWFpZ2VuXzMuMi4wX3g2NC1zZXR1cC5leGUKamJHTXBMa0pjWDRVejdIN1NyWXdML0d3R1RwN0ZtRDlqTzlvV1hyY2ZtNnBINzBxREJZRjBrbDYxS1lhOXlqTFlLREgrRHoxZFVmd2d1RHFLajd0RFE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.0/Maigen_3.2.0_x64-setup.exe"
     }
   }
 }
