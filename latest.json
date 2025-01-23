@@ -1,12 +1,12 @@
 {
-  "version": "3.2.0",
-  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"#Adding alternative prompt.\",\"#Reduce app size.\",\"#Optimize default config generate.\" ]",
+  "version": "3.2.1",
+  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"Adding alternative prompt.\",\"Reduce app size.\",\"Optimize default config generate.\",\"*Fix bug.\" ]",
  
-  "pub_date": "2025-01-22T17:17:11.503Z",
+  "pub_date": "2025-01-23T05:20:15.885Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG05VFlxNUpKWkZnUTNIUDZneEpKR3p4ekk5Tm9hMitVVVZGWjB5amRtalh3RDF1Y0FIRFJxRHBtS0U3UENwWmU3eVBadEFOSkJ1UlVLdW1oWHhPTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY2MjI5CWZpbGU6TWFpZ2VuXzMuMi4wX3g2NC1zZXR1cC5leGUKamJHTXBMa0pjWDRVejdIN1NyWXdML0d3R1RwN0ZtRDlqTzlvV1hyY2ZtNnBINzBxREJZRjBrbDYxS1lhOXlqTFlLREgrRHoxZFVmd2d1RHFLajd0RFE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.0/Maigen_3.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THN5UTZuN2tDZ3RreHloMUVnOU04RWF5aFB6VVhGeUVIUEFYMEJQa3Y5U3BBK295TFVHY2dTRld1UjNlWmZXbEpwY1NtOGFuVnVnRjNxVE52OE8wM2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjA5NjE0CWZpbGU6TWFpZ2VuXzMuMi4xX3g2NC1zZXR1cC5leGUKK2ZoZHBiaW5PTFI3eVVucFk1UDNkNVBtNnNzQkhMa0ZUendESVZ6M081RmhXVUYwYm5mV2tLUHd1cU8zWEttVnIrU2RZc2xCbVVSbzBUTWZDVktDQkE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.1/Maigen_3.2.1_x64-setup.exe"
     }
   }
 }
