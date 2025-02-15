@@ -1,20 +1,19 @@
 {
-  "version": "3.2.1",
-  "notes": "[\"Customize the prompt to make the metadata results more relevant\", \"Display the link for API Key creation when adding an API Key.\", \"Add FAQ.\", \"Add metadata copy feature with double-click.\", \"Enable Multiple APIs by default.\", \"Copy the API Key when clicked.\", \"Change default model for Google and Anthorpic.\",\"Adding alternative prompt.\",\"Reduce app size.\",\"Optimize default config generate.\",\"*Fix bug.\" ]",
- 
-  "pub_date": "2025-01-23T05:20:15.885Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THN5UTZuN2tDZ3RreHloMUVnOU04RWF5aFB6VVhGeUVIUEFYMEJQa3Y5U3BBK295TFVHY2dTRld1UjNlWmZXbEpwY1NtOGFuVnVnRjNxVE52OE8wM2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NjA5NjE0CWZpbGU6TWFpZ2VuXzMuMi4xX3g2NC1zZXR1cC5leGUKK2ZoZHBiaW5PTFI3eVVucFk1UDNkNVBtNnNzQkhMa0ZUendESVZ6M081RmhXVUYwYm5mV2tLUHd1cU8zWEttVnIrU2RZc2xCbVVSbzBUTWZDVktDQkE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.1/Maigen_3.2.1_x64-setup.exe"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THE0T0JGMU5DdExxRnk2K3M4N3hKR1Y1d3JMdGZXTC9KTWV4d2Y2ZzdRZlBBRUJEK1habWpHVXNWYUlTRHdMbHBmb0pGOGMwUWcvTms5bTFKUEhlcUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3Nzk4ODA5CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKVU9UaFR2VHB6UHUzVWJISndXTlJxcUV0aHVtL2ZxcUdGbFlqYlVUY3pOcHFZVWRadDg0NHc3NWxScVBCeEdad1JYeVN4MGttU1pSYlRJYWhSM2hJQXc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.1/Maigen_x64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGlqZTAvR2c3VzNGdlV4cEliellOM2FnbTUyTVZsbi9ZZWVsQnZaV09LWHh3d3dZb0VHK3BxK3kwMldNVGg3TkFHdDRoc3pyczMxcHVZSDZ0VFFyTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3Nzk4OTcxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKM1dwZkpNUVZ3RWZKWDFwUFRWcGpWZzZYNmVNN0c1NGtvVzl3dTRaZ1lKck0xMC9hUUNQc3hRTFVXSDd6NG5SMXJYR3JmYmpVOTA5UDMxY1d3RG5sRFE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v3.2.1/Maigen_aarch64.app.tar.gz"
-    }
-  }
+	"version": "3.3.0",
+	"notes": "[\"Added keyword suggestion feature\",\"Added metadata research feature based on selected images from the target site\",\"Optimization to be faster when loading multiple files at once\",\"Added metadata reset button on each file\",\"Improve keyword UI to make it more convenient\",\"Added keyword drag feature from keyword suggestion or metadata research panel\",\"Merged the API Key list UI and the Add API Key UI\",\"Added paste button in keyword input\",\"Added paste and clear buttons in API Manager\",\"Improve loading status and information\"]",
+	"pub_date": "2025-02-15T06:44:10.979Z",
+	"platforms": {
+		"darwin-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG5wVmZqNTlTV3ZHMVZkQzdvUit6TnJHcXlDZkJMODh5OWJIdzBLZXVpK1ErdVJNZk5LZC8rQ1BHemgyRDFmMFU3UHgxV2RDQnFKRjdBNWhLRUFUeUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxNTUxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKRWFmbkZ0Ymx6bHBKekNpNk45RmVRSURmM2MrT3d0bGpZNHRzVERDZVcwQnFUVkU2cWhsQitnekRiaTdDY041M3c5WlFZVGN3eXVOdmhNbFRTQlN5QWc9PQo=",
+			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_x64.app.tar.gz"
+		},
+		"darwin-aarch64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THFYdzdaOE10WWFHdkFKcXMwOEFuK2FLc3lDbDl2TUhLQlNicE5TeU9oeFpqdldMYlA3OGQ4RElKTGRpeEpqZGdhZFVKek9FTi91MS9tL09sd0NqWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxNzM1CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKcGJDUFZYR0Rzcm94a1ZKeVJlalRKUFQ0YVY5dUl5OVlDYlpOUzFJaENYS1pmTy9SMDMzTWdHMVE0OStGQ09IU0VuUHBjdzB2Wk45RGFRV2xyZENoQUE9PQo=",
+			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_aarch64.app.tar.gz"
+		},
+		"windows-x86_64": {
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THJwNjFCWVB0MmZTUTcvS0JuZkJGNmRtQ0dtTUd3Sko3aUhsOGFORTV1QzZYNHoyVHdCMWgvRXhWZE9lbTkxNlZUQWg0RXRSRUxKbUppa1VRY2pFTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxODQ5CWZpbGU6TWFpZ2VuXzMuMy4wX3g2NC1zZXR1cC5leGUKenhtTmN3U3hvRnhYYnR6Y0I0NEF2STJVYTcwdU9Oa0RuejlqUkdUVGRONGtiaHN6UDk1dVordDh5QUZXbzdKZ21ZT3RuRWhVM1NJTUVNa3VPOVZ4QlE9PQo=",
+			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_3.3.0_x64-setup.exe"
+		}
+	}
 }
