@@ -1,19 +1,20 @@
 {
-	"version": "3.3.0",
-	"notes": "[\"Added keyword suggestion feature\",\"Added metadata research feature based on selected images from the target site\",\"Optimization to be faster when loading multiple files at once\",\"Added metadata reset button on each file\",\"Improve keyword UI to make it more convenient\",\"Added keyword drag feature from keyword suggestion or metadata research panel\",\"Merged the API Key list UI and the Add API Key UI\",\"Added paste button in keyword input\",\"Added paste and clear buttons in API Manager\",\"Improve loading status and information\"]",
-	"pub_date": "2025-02-15T06:44:10.979Z",
-	"platforms": {
-		"darwin-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG5wVmZqNTlTV3ZHMVZkQzdvUit6TnJHcXlDZkJMODh5OWJIdzBLZXVpK1ErdVJNZk5LZC8rQ1BHemgyRDFmMFU3UHgxV2RDQnFKRjdBNWhLRUFUeUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxNTUxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKRWFmbkZ0Ymx6bHBKekNpNk45RmVRSURmM2MrT3d0bGpZNHRzVERDZVcwQnFUVkU2cWhsQitnekRiaTdDY041M3c5WlFZVGN3eXVOdmhNbFRTQlN5QWc9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_x64.app.tar.gz"
-		},
-		"darwin-aarch64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THFYdzdaOE10WWFHdkFKcXMwOEFuK2FLc3lDbDl2TUhLQlNicE5TeU9oeFpqdldMYlA3OGQ4RElKTGRpeEpqZGdhZFVKek9FTi91MS9tL09sd0NqWlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxNzM1CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKcGJDUFZYR0Rzcm94a1ZKeVJlalRKUFQ0YVY5dUl5OVlDYlpOUzFJaENYS1pmTy9SMDMzTWdHMVE0OStGQ09IU0VuUHBjdzB2Wk45RGFRV2xyZENoQUE9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_aarch64.app.tar.gz"
-		},
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THJwNjFCWVB0MmZTUTcvS0JuZkJGNmRtQ0dtTUd3Sko3aUhsOGFORTV1QzZYNHoyVHdCMWgvRXhWZE9lbTkxNlZUQWg0RXRSRUxKbUppa1VRY2pFTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NjAxODQ5CWZpbGU6TWFpZ2VuXzMuMy4wX3g2NC1zZXR1cC5leGUKenhtTmN3U3hvRnhYYnR6Y0I0NEF2STJVYTcwdU9Oa0RuejlqUkdUVGRONGtiaHN6UDk1dVordDh5QUZXbzdKZ21ZT3RuRWhVM1NJTUVNa3VPOVZ4QlE9PQo=",
-			"url": "https://github.com/murnifine/maigen/releases/download/v3.3.0/Maigen_3.3.0_x64-setup.exe"
-		}
-	}
+  "version": "4.0.0",
+	"notes": "[\"Adding tile view mode\",\"Adding filters\",\"Improved UI\",\"And many other improvements\"]",
+  "pub_date": "2025-02-24T06:28:22.997Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGxVSmNPR0RsdzJNdHRzU2ljc0Q2UDA4VVFKRkY4WGN5SENUTHVqRFJTV3lDTUJDK2Zlc1QrdGVuaUZMdWhXcFlCQmJPK0lZNWJBZ1oxWHNGNWJnL0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzc4NDA0CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKanBvZGxIbWxCcDhZcndUS2dkVkdxZE5aNjVqUnpVZHNFbVpVdlJ0U1QrNzJaOFRCUEZxam1jWi9POHV2Qk1WRHY2eStxNzVTYkRmUUVsM2tSRXRPQVE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGlEMFp3am1qekhDM05KaHZmTWZTY045Z3BpRk1KeUk0WjhmNWJpZXM1UDBMUytGcEFwTnZPWGdiZ01IZ3NYNm9waTlGeDFWdWxJelU1UG1odFVPZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzc4NDk5CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKbGlmNG1hbFI4OTk0TkdhUDBYVDBSc016am5HNEx2SzJhRWczeUo0L3BJN25IZXo1a2Y3dU9SajJvb2xyODFlTGx6TnllU25hVUVEQmt1Nm1qdmo2QlE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBLMHhVbVNiSXdVdWplZUlWTnNUaENZVm42a0pncTl2ZzdMNk1YL09WNDF1aGdIM3VCVVFQZGpYdzBhM3VQN2NGeGVsVXRObW5qeU0zajhETEkyN0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzc4NDgyCWZpbGU6TWFpZ2VuXzQuMC4wX3g2NC1zZXR1cC5leGUKTHNQVXo4aUc0MjNIYUd3U1NUeWwxdTJYQUZScGdVMDVzSkF5czlOT1NHR0Vob1JHWlBEcWNyVlVJKzFBdUVwYVVTcXljaGM4V0ZWRTRYM2M5RTBwQmc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_4.0.0_x64-setup.exe"
+    }
+  }
 }
+
