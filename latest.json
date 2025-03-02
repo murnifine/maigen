@@ -1,19 +1,19 @@
 {
-  "version": "4.0.0",
-  "notes": "[\"Adding tile view mode\",\"Adding filters\",\"Improved UI\",\"And many other improvements\"]",
-  "pub_date": "2025-02-24T08:44:25.823Z",
+  "version": "4.0.2",
+  "notes": "[\"Fixed filter not working\", \"Fixed glitch when generating in tile view mode\"]",
+  "pub_date": "2025-03-02T06:05:36.266Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGxZRk1aUC9vR0VybjJMN0ZURU82eGtyV3ZsRExOM2UwZGJzMUFacDAralVKSTZtSUJCS2VJdWE3N2tFVTV4VWJ5MGMxdnp3WEdOcy9HdklDMEpFVkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzg2NTQ5CWZpbGU6TWFpZ2VuXzQuMC4wX3g2NC1zZXR1cC5leGUKSFdqR0JZK0FoSGF2alhvNVhpd0RORmRmNVRGWktPcFA5LzZ4VGpSVXBudWwxazdoRUpJazYxVmlmWDRCYWV6UHpIUXR3TUVGWThWemQyQmp6dUE0Q0E9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_4.0.0_x64-setup.exe"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THJ1OXUySWZnQ1hpL2pBbU9DenlLWSthclJUdnZHTUFDZU96RkxySXBwQ1ZQdVdYWS9Fb0FzbDVQVTVPSjJQUWtCVjlBWWNsRHozWHlVN1BMbTF1dmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzg2NTgzCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKa2c1d0QvL0w5YkRpdGRtbkx4ejR2bUIrNmQwV2ozb3JEcWJuR2kydzBwQjJRRE5BRXlJQ0lMaStKMjJRYjExUTBERjlDL2FHYlpUakJmbzZSaUJaQ1E9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG9JQ2pDdXhwZElBWm4yc0lBQ0FURXpyR0ZVT0t1UFFqazJ4ZVBTNTRQSDVyZ2xGRi9YM1BnUnlDcTl5aDhJYUtkU2RPQVVKWGZnVzMwbWRuNWlmQkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1Mjc3CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKMkZnSkdlbEQ3NGlwK3FMYzU3ZTNmZS9hNit1cDNNVWFLRTZKQ1A2NDIwUzM5WUF0Q0FneGVVREsyOXlsUGdmb2NuOW53K1hvcUJaV1NPRkQrVGJTQ3c9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG51UjZYaVhpVkc3bmVlRHpRb0s3cEZpMkdMcUxSM1B1RSt4V1NLU1psWUxFLzNBeTB4SFBadUEwbjBhYUdLN1AyQndLSHM0NEhDRktNSmVSSjJtMndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzg2NjYxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKdFlqTlBxVnJ0ZzJFQmFZbTV6V2hjUGVXc3FGWmRpb1BYN05jUHhoZDVJc2lVWk1DWEVFaElnUENCRzF3WStuS09uUEllc2RRMW56V2ZubTZYaElvQWc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.0/Maigen_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG13RWt0QmlqOUt3aHdybFJ0S1dRK1hDaWRRek5vZHB3QXZDMEsyZWRDSEJMQXp5U1I4WmZldnVBNThiM1FtTTNFa3FFTENWVW1kT2hHc1lOcGx2MEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1MzQxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKb0U0S0pWN3pKR3J0cVNrVk1rRVB0VzAvWTZ4Uk5QRXNwTmN0WFlTSXR0YVhsS1Z2UXJaQ2Z3M254Ym1pdzR0UkhIZUtpZHQxZmJPeE5EWDc2SmNBQlE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGphK21tVDhHOGJoTlI1MlZiR3BIRnVRd0Zma0xWdEE0V2R1OUZnLzZNZk1iMmRidnRkUE9BTVFjbHd4NVkyUktMd0p1L2ZGWjJFdGhycm9DUlJVM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1NTM0CWZpbGU6TWFpZ2VuXzQuMC4yX3g2NC1zZXR1cC5leGUKQWtsUG44UzFhWU9ST0tGRFRjUUhoSjFZVm1CdDhsMzI5dWRacGlWbTlSZ1pERFppZEdES1d6RERCR3JOY3pBcjRHRy9UbGh1Zyt0V0VPbEFTb3ptQUE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_4.0.2_x64-setup.exe"
     }
   }
 }
