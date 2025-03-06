@@ -1,19 +1,26 @@
 {
-  "version": "4.0.2",
-  "notes": "[\"Fixed filter not working\", \"Fixed glitch when generating in tile view mode\"]",
-  "pub_date": "2025-03-02T06:05:36.266Z",
+  "version": "4.0.4",
+  "notes": [
+  "Fixed an issue generating metadata for videos using full video analysis with Google Gemini",
+  "Fixed that when generating with incomplete targets, it was deleting metadata that was already complete",
+  "Fixed when pasting API Key, save status should return to test",
+  "Fixed blank display when clicking review metadata in masonry",
+  "Fixed blank display when clicking remove in masonry"
+],
+  "pub_date": "2025-03-06T14:41:44.199Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG9JQ2pDdXhwZElBWm4yc0lBQ0FURXpyR0ZVT0t1UFFqazJ4ZVBTNTRQSDVyZ2xGRi9YM1BnUnlDcTl5aDhJYUtkU2RPQVVKWGZnVzMwbWRuNWlmQkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1Mjc3CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKMkZnSkdlbEQ3NGlwK3FMYzU3ZTNmZS9hNit1cDNNVWFLRTZKQ1A2NDIwUzM5WUF0Q0FneGVVREsyOXlsUGdmb2NuOW53K1hvcUJaV1NPRkQrVGJTQ3c9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THAzYXJHdVRSRm84Z2QremcrWFlObE02SkovbEtjV2tBQzk2bVpzMkJha0k0cXBnVlpDUEl3Y3UzbmZJUzRqcnpVbmxLOTZCdWNlSm41YXBObFczQmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMjcxNjM5CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKampsZzBEc1l3WVpUc0RBSTR4R0hVeFF6cHg4Z2VTTVZzOG0rYUtiL21wbWpubGEzb0JjZDhNQ3pJRmdueFNLSkxyMitUR2RHS1MzYWhhNEFhL09HRHc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.4/Maigen_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG13RWt0QmlqOUt3aHdybFJ0S1dRK1hDaWRRek5vZHB3QXZDMEsyZWRDSEJMQXp5U1I4WmZldnVBNThiM1FtTTNFa3FFTENWVW1kT2hHc1lOcGx2MEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1MzQxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKb0U0S0pWN3pKR3J0cVNrVk1rRVB0VzAvWTZ4Uk5QRXNwTmN0WFlTSXR0YVhsS1Z2UXJaQ2Z3M254Ym1pdzR0UkhIZUtpZHQxZmJPeE5EWDc2SmNBQlE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THFreGJUbldZdUY5c05uMXBKZGQxQzY3bXJTbGttT3JUQm9kNFZtQzFiaWFrNnI5VzQ3Y3V1Q1Uza3N4eHBMMGZydDVCYjk1WFRNWVk5cGFhZk02VFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMjcxNzcyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKcTNraTRzemdIWmhTUEdYOFJUYlhJVUl3a0pQeUY4ZS92aVZqb2loNVptOWxDTU9GZjVlVWFWNnBEYldOT0lMSlZEeVBrUjQvQU5XaEFNRDJYUXlHQ1E9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.4/Maigen_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGphK21tVDhHOGJoTlI1MlZiR3BIRnVRd0Zma0xWdEE0V2R1OUZnLzZNZk1iMmRidnRkUE9BTVFjbHd4NVkyUktMd0p1L2ZGWjJFdGhycm9DUlJVM1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODk1NTM0CWZpbGU6TWFpZ2VuXzQuMC4yX3g2NC1zZXR1cC5leGUKQWtsUG44UzFhWU9ST0tGRFRjUUhoSjFZVm1CdDhsMzI5dWRacGlWbTlSZ1pERFppZEdES1d6RERCR3JOY3pBcjRHRy9UbGh1Zyt0V0VPbEFTb3ptQUE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.2/Maigen_4.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGdpWmgwQU5lbVZwSDRDRkk5U08wNlRHVldHaUR5MDlyMkluQzZkek9PTmdUYldqTXhMa2w3dzFVa0JjWEUvSDdxNi91UGoyQW80VW9SMDUxYW05QlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMjcyMTAyCWZpbGU6TWFpZ2VuXzQuMC40X3g2NC1zZXR1cC5leGUKdFdpOGdwVDVhZ3phQ1pSSmVkdWNqOFVHSmVBTGVBeFI5L241TGhUWE1PWHRSVGVBaWtwZ2J5ZWUrVS8vek1WUXBLR0VUK3ZSMnQzTEdEeE5KWGpZQXc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.0.4/Maigen_4.0.4_x64-setup.exe"
     }
   }
 }
+
