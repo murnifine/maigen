@@ -1,12 +1,6 @@
 {
   "version": "4.0.4",
-  "notes": [
-  "Fixed an issue generating metadata for videos using full video analysis with Google Gemini",
-  "Fixed that when generating with incomplete targets, it was deleting metadata that was already complete",
-  "Fixed when pasting API Key, save status should return to test",
-  "Fixed blank display when clicking review metadata in masonry",
-  "Fixed blank display when clicking remove in masonry"
-],
+  "notes": "[\"Fixed an issue generating metadata for videos using full video analysis with Google Gemini\",\"Fixed that when generating with incomplete targets, it was deleting metadata that was already complete\",\"Fixed when pasting API Key, save status should return to test\",\"Fixed blank display when clicking review metadata in masonry\",\"Fixed blank display when clicking remove in masonry\"]",
   "pub_date": "2025-03-06T14:41:44.199Z",
   "platforms": {
     "darwin-aarch64": {
@@ -14,7 +8,7 @@
       "url": "https://github.com/murnifine/maigen/releases/download/v4.0.4/Maigen_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THFreGJUbldZdUY5c05uMXBKZGQxQzY3bXJTbGttT3JUQm9kNFZtQzFiaWFrNnI5VzQ3Y3V1Q1Uza3N4eHBMMGZydDVCYjk1WFRNWVk5cGFhZk02VFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMjcxNzcyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKcTNraTRzemdIWmhTUEdYOFJUYlhJVUl3a0pQeUY4ZS92aVZqb2loNVptOWxDTU9GZjVlVWFWNnBEYldOT0lMSlZEeVBrUjQvQU5XaEFNRDJYUXlHQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THfreGJUbldZdUY5c05uMXBKZGQxQzY3bXJTbGttT3JUQm9kNFVtQzFiaWFrNnI5VzQ3Y3V1Q1Uza3N4eHBMMGZydDVCYjk1WFRNWVk5cGFhZk02VFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMjcxNzcyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKcTNraTRzemdIWmhTUEdYOFJUYlhJVUl3a0pQeUY4ZS92aVZqb2loNVptOWxDTU9GZjVlVWFWNnBEYldOT0lMSlZEeVBrUjQvQU5XaEFNRDJYUXlHQ1E9PQo=",
       "url": "https://github.com/murnifine/maigen/releases/download/v4.0.4/Maigen_x64.app.tar.gz"
     },
     "windows-x86_64": {
@@ -23,4 +17,3 @@
     }
   }
 }
-
