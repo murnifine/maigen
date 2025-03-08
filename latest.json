@@ -1,5 +1,6 @@
 {
   "version": "4.0.4",
+  "changes": "Testing",
   "notes": "[\"Fixed an issue generating metadata for videos using full video analysis with Google Gemini\",\"Fixed that when generating with incomplete targets, it was deleting metadata that was already complete\",\"Fixed when pasting API Key, save status should return to test\",\"Fixed blank display when clicking review metadata in masonry\",\"Fixed blank display when clicking remove in masonry\"]",
   "pub_date": "2025-03-06T14:41:44.199Z",
   "platforms": {
