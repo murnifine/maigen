@@ -1,19 +1,19 @@
 {
-  "version": "4.1.1",
-    "notes": "[\"Added double-click on keywords to enable editing\",\"Added instruction input to provide context to the AI\",\"Added warning on the metadata field if it exceeds the specified number of characters\",\"Added highlight for words in the title that match keywords\",\"And many other improvements and customizations\"]",
-  "pub_date": "2025-04-28T16:18:27.306Z",
+  "version": "4.1.2",
+  "notes": "[\"Added double-click on keywords to enable editing\",\"Added instruction input to provide context to the AI\",\"Added warning on the metadata field if it exceeds the specified number of characters\",\"Added highlight for words in the title that match keywords\",\"And many other improvements and customizations\"]",
+   "pub_date": "2025-04-28T20:20:51.338Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THJaa2p0NzNEamtwcU1paEtjajJOQUpqQWtwQVBKOTlva1lVb2xhaXZMZW90Z0hNd2srZFQ2Y0dkbjN1eHpvak5zazlteHpMenVhbFRGNGVsSXhUaXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODU2MjAzCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKN243NE9OYXUwTHRSeFNyN0hDMS81Ty92clBLNHFGNDBIYkpHbmdNREptbUQzd0xEaVY4WnlPMjVLcnRtTDNZNFJsTlpOZDlUdWFBbTF4eVJWTmNERFE9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.1/Maigen_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THNFUlZiNkhqK0RHZkdJNk9zRHI4MUd1NmdZQmF5S0ltVXdtTHEzKzJYemljSy9BS0lRL0FCR0d5bnRwelpwZjFHejFNN2RuajYwZVhmcnlYR0QwY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODcxNDIyCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKVVpLbmF3YmNIMTlTZXBqRU1SV3RISFJxNGdyTThIejJQMVJ4UmtlZC9SOEQrN1hONm9KcFJLejZmdFI3SGtrVlpya09xeDFIbk9IQlBoMlZyU2lRQmc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.2/Maigen_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THAwd1hra3VBTGliL3RVTGZRd2JXcHhab3RYWnVlS2tYRWtJK0ZsRGxCaTRDZWRJN0RUMWF2SzZFd1FPMVF3cS9Wa0F3YWsxU3IxNjhSQ2VkaWNJcGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODU2MjYxCWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKdVVJOHVOQWJFMXozVEsyTmxJallLSkdydmdNUDdjUXdYQitGbktncXZ3NFAvRURKWGgxL1AxcDhpZWthaGRXMzk1UDJaeXY3eVZTVU44RHhLUGVBQXc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.1/Maigen_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THArNkRGQWU5ZFJ3NjlEbi9PMk45NWl3eTJMbkZKd2NERDFtNWFJV0JPSDJjRjNQbXFNVWZQTG5rd2dFYlIzN053dmUyOFZqeGg1OVZ2Mm1BZmRIR2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODcxNTQ4CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKM3pFY0lxWUJzNlh1MGM1VnJVOUdZWDZNcEFueENwVlUwY1BKQm5TMWNCVXpPM0c2bVVTQjR1bEJadjlyMFFWN21kelk4SWo2cFduenB1RzJWY1MzQVE9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.2/Maigen_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBrTzV4MG9mZVNaWk5rUmhrUFpSaXhzR3hWb29DK2RvMWVaOTZiL2ZaQUFGdTl3R2p2aG1RZWdJZnY3c2RWOGNkUTNibURKMGNUMU1ON1dFUEdqdGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODU3MTA1CWZpbGU6TWFpZ2VuXzQuMS4xX3g2NC1zZXR1cC5leGUKN2dlckdrL3FuMlByblU1ZzQ0ei9tdGtWRnRkamtEajF1QVdtTXFCTXM0VEl3QmoySlJiQjZadW5PSnM1OXlGN3MvZUhuUkoxUWx3THhQRXhkckZJQXc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.1/Maigen_4.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THA4ckdIbGxEMmJtand0RVVOQzRCTWdkcUJvbzlUMFAxMDRhMWFUSGZjOC9oSVZlaXJvZElkbnIyVXdIcFNCM29jN05GT1lTUno2aFZmYzZXWW82YWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1ODcxNjQ5CWZpbGU6TWFpZ2VuXzQuMS4yX3g2NC1zZXR1cC5leGUKeFk1dG9MRWU0TFY3R2pzODdCSnlrTlpjK3J4NXpPSHN6b0dqaUJSWnVUWmpRbmdjSU1IeE1ia2NIOXhzSnI2YS8yMmN2VlJDdGRqbkpuV01WZmFEQmc9PQo=",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.1.2/Maigen_4.1.2_x64-setup.exe"
     }
   }
 }
