@@ -1,10 +1,14 @@
 {
   "version": "4.2.14",
-  "notes": "[\"Update\"]",
-  "pub_date": "2025-11-20T07:51:25.685Z",
+  "notes": "Update",
+  "pub_date": "2025-11-20T07:14:37.247Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TG4rVUZ4YzBaV003c2RUQURXUnVQUWorRjBDQUo4NGwwRUlUOEVPaUxXNnZzbmQ0OG1qUU9VVUtpS2pnWlltc01hZVVqbnV6T2M1dG5oOS9BcmZDR2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjIyNDMyCWZpbGU6TWFpZ2VuXzQuMi4xNF94NjQtc2V0dXAuZXhlCjVxRE5ZZ0hCcUMvSGxpUGlvVDFoc3Q3RWN6WldsemVnVmliTjI4OG1yY3p1TEZ5aVZTaEFCemNKYStBUXhnWk9FUjZuUXZScE82RGY4dlI3T08yVEJBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THNMYXdyaVpZTG8vTnlyZitQRTdaSWEvRzBaekEvNHdZY05zQnlJSmI3Q01MbDRDWU0xY3NoYTV2VVM5anNCR2VyVG13VWN2MnZ6Um1jR2YrOW9mWndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjIyODc0CWZpbGU6TWFpZ2VuXzQuMi4xNF94NjQtc2V0dXAuZXhlCmxmVGQ1bXFHYzRjQW9aZDVYdTZsaHN5NDNBWXpBdFlIdGJRdkR6YjRjM3RBMndCeG0zUDMzU0ppUGwxMDRpMWRqd2xjbzZ0N0lHWGNkM0cxeTAwYkJnPT0K",
+      "url": "https://github.com/murnifine/maigen/releases/download/v4.2.14/Maigen_4.2.14_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THNMYXdyaVpZTG8vTnlyZitQRTdaSWEvRzBaekEvNHdZY05zQnlJSmI3Q01MbDRDWU0xY3NoYTV2VVM5anNCR2VyVG13VWN2MnZ6Um1jR2YrOW9mWndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYzNjIyODc0CWZpbGU6TWFpZ2VuXzQuMi4xNF94NjQtc2V0dXAuZXhlCmxmVGQ1bXFHYzRjQW9aZDVYdTZsaHN5NDNBWXpBdFlIdGJRdkR6YjRjM3RBMndCeG0zUDMzU0ppUGwxMDRpMWRqd2xjbzZ0N0lHWGNkM0cxeTAwYkJnPT0K",
       "url": "https://github.com/murnifine/maigen/releases/download/v4.2.14/Maigen_4.2.14_x64-setup.exe"
     }
   }
