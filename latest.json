@@ -1,16 +1,8 @@
 {
-  "version": "4.2.13",
-  "notes": "[\"Bug fix\"]",
-  "pub_date": "2025-06-13T07:51:25.685Z",
+  "version": "4.2.14",
+  "notes": "[\"Update\"]",
+  "pub_date": "2025-11-20T07:51:25.685Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGxnekgyQW9laXJaSE5GMi9LcTdta0ovMG5TN0lHbnZOY3NvTklBOEs3OUNPVUhVdjVEWDlVbGo4S2ljZk05dTExSmdQVU5ZOGt4K1R3VWwrSzZtT1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5ODAwNDE0CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKbU1ESWE2YW53TkJjcThDS0hLM2lsR3BBSm0xU0VsS1RPOHdTVmpCcU9YN3FDNU5uQWtxeG5PV1dtMU5EVHlCRlA4UkRTdmVjdnlTdjFIWFRPSjNlRHc9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.2.13/Maigen_x64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBtU3J6aWpWSUpGY1lXZEZBU1JUOTRwalNkRVhuQUVETk5rY1AvdXZqeDBCQTNwemJId0N6dG9WcXpab3RsbUJKMmFDZ2JaaTJxc2hjNWFVYXJYdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5ODAwNDY0CWZpbGU6TWFpZ2VuLmFwcC50YXIuZ3oKSitCZVI4TzU1d1NRdlUxSHViekczZkt0V3lLNzYrR20rUzU3K2VRQjhSMVpMOVJUWk05cW1LdjlFR29aKzlQRzdNdzcrdTFkdVhnOUhWbzVKV3kxQ1E9PQo=",
-      "url": "https://github.com/murnifine/maigen/releases/download/v4.2.13/Maigen_aarch64.app.tar.gz"
-    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THZ5UHRBcFFrMDhmbTAyQ09CMnlGaG1kNmRwM1JreUZINllLcUVaVlp4Vmo0K0t0dVplVnZ3WVl4eHBmZ1NUU3lpZDRzbTBSMWlvNDRUMXIyRmNNNXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5ODAxMDg0CWZpbGU6TWFpZ2VuXzQuMi4xM194NjQtc2V0dXAuZXhlCnNBblZUVkUyekxRcXJWdmxCcy9xNlJ4aVdKY0trTjRnT0VoVjNQKzdocVZkc2UrSnVHcFFaejNwM1FLUUtMVGxJMldRV0VJQ3h6UlRMc2tGR2hpWkNRPT0K",
       "url": "https://github.com/murnifine/maigen/releases/download/v4.2.13/Maigen_4.2.13_x64-setup.exe"
