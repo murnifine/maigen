@@ -1,15 +1,15 @@
 {
   "version": "5.10.0",
-  "notes": "Big Update with new features",
+  "notes": "[\"Major Version Upgrade\",\"New UI\",\"Performance Improvements\",\"Many Enhancements\"]",
   "pub_date": "2025-12-16T19:42:08.476Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGlQN0xMYUxac3RYSlpPVGxnMWtHY2hlT05NV1RBb2t1MWZTTFdyOUliU0RZcTJlQ2xYdTYwVUhqQUNDOFc2bWtJY216VlZZQkIzdkYrRzhFRWJpeXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAwOTU1CWZpbGU6TWFpZ2VuXzYuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjo2LjMuMQphUzBNNngzeWxzYTVaWHFFYloreFd2dzZDN091TllnZ3d2YUVRWlRFeElIS05FWmk1T1hUMktlVkFUSktHcXEyUzBEL1llc2lrRUFzWE5aK0wvaEdBQT09Cg==",
-      "url": "https://github.com/murnifine/maigen/releases/download/v6.3.1/Maigen_6.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBUODgyN08xV1FLbGo5anAvUHg2YkFBTGQvRy9UYXREeW55bUx0MlgvZW1qNkdNcEkycEFVczlWK082V1BzUnJvMDlCNlVsTXhjMGxNNXc1UldraXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1OTE0MTI0CWZpbGU6TWFpZ2VuXzUuMTAuMF94NjQtc2V0dXAuZXhlCmFIbGZzQTJnY0psZkZxa2t5MHczN0FqcVVPNkIrK1RKaFprZUlmL1RUbjA5ZEJIQ0VRdlNGQStnbUtlY3BkRWJ3ZlhvR0NWSWxPd2ZyV3JSRWZWbUFnPT0K",
+      "url": "https://github.com/murnifine/maigen/releases/download/v5.10.0/Maigen_5.10.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1TGlQN0xMYUxac3RYSlpPVGxnMWtHY2hlT05NV1RBb2t1MWZTTFdyOUliU0RZcTJlQ2xYdTYwVUhqQUNDOFc2bWtJY216VlZZQkIzdkYrRzhFRWJpeXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAwOTU1CWZpbGU6TWFpZ2VuXzYuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjo2LjMuMQphUzBNNngzeWxzYTVaWHFFYloreFd2dzZDN091TllnZ3d2YUVRWlRFeElIS05FWmk1T1hUMktlVkFUSktHcXEyUzBEL1llc2lrRUFzWE5aK0wvaEdBQT09Cg==",
-      "url": "https://github.com/murnifine/maigen/releases/download/v6.3.1/Maigen_6.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmJwODQ4emh1THBUODgyN08xV1FLbGo5anAvUHg2YkFBTGQvRy9UYXREeW55bUx0MlgvZW1qNkdNcEkycEFVczlWK082V1BzUnJvMDlCNlVsTXhjMGxNNXc1UldraXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1OTE0MTI0CWZpbGU6TWFpZ2VuXzUuMTAuMF94NjQtc2V0dXAuZXhlCmFIbGZzQTJnY0psZkZxa2t5MHczN0FqcVVPNkIrK1RKaFprZUlmL1RUbjA5ZEJIQ0VRdlNGQStnbUtlY3BkRWJ3ZlhvR0NWSWxPd2ZyV3JSRWZWbUFnPT0K",
+      "url": "https://github.com/murnifine/maigen/releases/download/v5.10.0/Maigen_5.10.0_x64-setup.exe"
     }
   }
 }
